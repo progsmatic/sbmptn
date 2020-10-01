@@ -297,7 +297,7 @@ error_reporting(0);
 						<div class="container" style="background-color: #f8f8f8; padding:15px;">
 							<div class="row no-gutters">
 								<div class="col-auto col-sm-3">
-									Nomor peserta
+									Nomor peserta Anda
 								</div>
 								<div class="col-6 col-sm-1">
 									:
@@ -318,7 +318,7 @@ error_reporting(0);
 							</div>
 							<div class="row no-gutters">
 								<div class="col-auto col-sm-3">
-									Nama
+									Nama Peserta
 								</div>
 								<div class="col-6 col-sm-1">
 									:
@@ -329,7 +329,7 @@ error_reporting(0);
 							</div>
 							<div class="row no-gutters">
 								<div class="col-auto col-sm-3">
-									Tanggal lahir
+									Tanggal lahir Anda
 								</div>
 								<div class="col-6 col-sm-1">
 									:
@@ -346,7 +346,7 @@ error_reporting(0);
 							</div>
 							<div class="row no-gutters">
 								<div class="col-auto col-sm-3">
-									PTN
+									PTN yang Anda mau
 								</div>
 								<div class="col-6 col-sm-1">
 									:
@@ -360,7 +360,7 @@ error_reporting(0);
 							</div>
 							<div class="row no-gutters">
 								<div class="col-auto col-sm-3">
-									Program Studi
+									Program Studi PTN
 								</div>
 								<div class="col-6 col-sm-1">
 									:
@@ -387,7 +387,7 @@ error_reporting(0);
 							<br>
 							<div class="row">
 								<div class="col-12">
-									<span>Anda dapat mencetak kembali Kartu Tanda Peserta UTBK-SBMPTN 2020 di <a target="_blank" href="https://portal.ltmpt.ac.id">sini</a>.</span>
+									<span>Anda bisa mencetak kembali Kartu Tanda Peserta UTBK-SBMPTN 2020 disini <a target="_blank" href="https://portal.ltmpt.ac.id">sini</a>.</span>
 									<!-- <span>Anda dapat mencetak kembali Kartu Tanda Peserta SBMPTN 2019 di <a target="_blank" href="https://pendaftaran-sbmptn.ltmpt.ac.id">sini</a>.</span> -->
 								</div>
 							</div>
@@ -423,7 +423,7 @@ error_reporting(0);
 				<p class="text-center" style="font-weight: bold; font-size: 1.5em;">JANGAN PUTUS ASA DAN TETAP SEMANGAT!</p>
 			</div>
 			<div class="card-footer">
-				<a id="not-accepted-back" class="btn btn-block btn-success" href="">Kembali ke pencarian</a>
+				<a id="not-accepted-back" class="btn btn-block btn-success" href="">Kembali ke pencarian awal</a>
 			</div>
 		</div>
 	</div>
